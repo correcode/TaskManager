@@ -1,6 +1,6 @@
 package tasks.enterprise.config;
 
-import io.jsonwebtkoen.*;
+import io.jsonwebtoken.*;
 import org.springframework.stereotype.Component;
 import java.util.Date;
 

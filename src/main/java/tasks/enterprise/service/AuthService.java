@@ -1,3 +1,5 @@
+package tasks.enterprise.service;
+
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
